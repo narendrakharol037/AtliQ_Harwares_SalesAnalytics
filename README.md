@@ -8,3 +8,18 @@
 ### Tools Used
 
 Microsoft Excel
+
+#### Purpose of Sales Analytics
+
+1. Monitor business outcomes and incomes.
+2. Understand the customer purchasing behaviour.
+3. How to give discount.
+4. understand specific product demand in the market.
+5. Identify business expansion opprtunities in differnt markets.
+
+
+# Finance Analytics
+
+### Objective
+
+1. create Profit & Loss Report 
