@@ -25,3 +25,4 @@ Microsoft Excel
 1. Create [Profit & Loss Report by Fiscal Year](https://github.com/narendrakharol037/AtliQ_Harwares_SalesAnalytics/blob/87cfbd88740b9cf2d391dd8beea46d64030fa8f9/P%20%26%20L%20by%20Fiscal%20Year.pdf)
 2. Create [Profit & Loss Report by Fiscal Month](https://github.com/narendrakharol037/AtliQ_Harwares_SalesAnalytics/blob/af0dfdddf3ad7fa5373a639662bdd5177c01106b/P%20%26%20L%20by%20Fiscal_month.pdf)
 3. Create [Profit & Loss Report by Markets](https://github.com/narendrakharol037/AtliQ_Harwares_SalesAnalytics/blob/6bea48f011acfe8f6b8720934412764e139b93be/P%20%26%20L%20for%20Markets.pdf)
+4. Create [Gross Margin % by Quarters](https://github.com/narendrakharol037/AtliQ_Harwares_SalesAnalytics/blob/20eb5d5103e081c7e65f358a5c8125d03772800d/Gross%20Margin%25%20by%20Quarters.pdf)
